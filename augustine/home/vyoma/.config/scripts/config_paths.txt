@@ -1,0 +1,5 @@
+/home/vyoma/.config/i3
+/home/vyoma/.config/scripts
+/home/vyoma/.bashrc
+/home/vyoma/.xinitrc
+/home/vyoma/.bash_profile
