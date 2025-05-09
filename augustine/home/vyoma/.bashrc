@@ -124,3 +124,6 @@ alias phesmatos_motus="vim ~/.config/i3/config"
 alias gemino="python3 ~/.config/scripts/backup_config_git.py"
 
 source ~/.config/scripts/env_vars.sh
+
+#system specs
+neofetch
